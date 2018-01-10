@@ -1,18 +1,3 @@
-/*********************************************************
- Kyle Nguyen
- 
- COMP 182
- 
- Main Class
- 
- Version 1.0
- 
-  The program works as expected, it prompts the user
-  for input and returns the Matrix given the dimensions.
-  
-  It will perform all the operations endlessly
-  until the user chooses the exit operation.
-*********************************************************/
 import java.util.Scanner;
 
 class Main {
